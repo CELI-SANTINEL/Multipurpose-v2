@@ -1,0 +1,15 @@
+
+gemini_config.json
+gemini_config.json.bak
+.env
+.env.local
+credentials.json
+secrets.json
+api_key.txt
+token.txt
+id_rsa
+*.bak
+*.log
+spectra.py
+git.py
+.private/

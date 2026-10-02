@@ -1,0 +1,52 @@
+{
+  "status": "ok",
+  "meta": {
+    "uid": "236898772",
+    "region": "ALL",
+    "source": "freefirestalk"
+  },
+  "player": {
+    "accountId": "236898772",
+    "nickname": "edi3722X",
+    "region": "ID",
+    "level": 2,
+    "exp": 144,
+    "rank": 301,
+    "rankingPoints": 1000,
+    "csRank": 301,
+    "hasElitePass": false,
+    "createAt": "1526600254",
+    "lastLoginAt": "1526600254",
+    "primeInfo": {},
+    "avatarUrl": null,
+    "titleIconUrl": null,
+    "equippedCharacterIconUrl": "https://freefire.my.id/api/img?u=aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL1NoYWhHQ3JlYXRvci9pY29uQG1haW4vUE5HLzEwMjAwMDAwNy5wbmc&e=1790785918304&t=bb806661f18bb525c5d54000ac9720feb2cba6697f4f3e899bd6ef7390989398",
+    "equippedSkinIconUrls": [],
+    "equippedWeaponSkinIconUrls": [],
+    "equippedOutfitItems": [],
+    "equippedWeaponOutfitItems": [],
+    "equippedLookChangerItems": [],
+    "equippedArrivalAnimationItems": [],
+    "equippedBanner": null,
+    "equippedTitle": null,
+    "equippedPin": null,
+    "equippedCharacter": {
+      "id": 102000007,
+      "name": "Maxim",
+      "icon": "https://freefire.my.id/api/img?u=aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL1NoYWhHQ3JlYXRvci9pY29uQG1haW4vUE5HLzEwMjAwMDAwNy5wbmc&e=1790785918304&t=bb806661f18bb525c5d54000ac9720feb2cba6697f4f3e899bd6ef7390989398",
+      "type": "Characters",
+      "description": "Maxim is a competitive eater."
+    },
+    "equippedAvatar": null
+  },
+  "guild": {},
+  "social": {},
+  "credit": {},
+  "ban": {
+    "isBanned": false,
+    "lastLoginAt": "0",
+    "banPeriod": 0,
+    "status": "NOT BANNED"
+  },
+  "pet": null
+}
