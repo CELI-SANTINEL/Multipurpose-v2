@@ -1,13 +1,5 @@
 <div align="center">
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/NdikzDatabase/Database/main/uploads/f6346787-5e22-4808-9139-44850024e537.jpeg"/>
-
-</div>
-
----
-
 # 🛠️ MULTIPURPOSE
 
 ### Tools Serba Guna Berbasis CLI — Terminal Edition
@@ -21,6 +13,8 @@
 **Ringan, cepat, dan mudah digunakan.**
 
 [Fitur](#-fitur) · [Instalasi](#-instalasi) · [Penggunaan](#-penggunaan) · [Struktur](#-struktur-project) · [Lisensi](#-lisensi)
+
+<img src="https://raw.githubusercontent.com/NdikzDatabase/Database/main/uploads/f6346787-5e22-4808-9139-44850024e537.jpeg"/>
 
 </div>
 
